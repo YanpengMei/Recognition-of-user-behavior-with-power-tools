@@ -1,5 +1,5 @@
 # Recognition-of-user-behavior
-Written by: Yanpeng Mei
+Author: Yanpeng Mei
 
 Updated on: 21.03.2023
 
