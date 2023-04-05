@@ -1,0 +1,5 @@
+This is an example for the data-structur.
+
+csvNI         - measured datas from all sensors in csv-documents
+0_idx009      - index for current-sensor datas of Test009. Data in (A1, A2), (A3, A4)... will be used. The rest not.
+1_features009 - features of the datas in Test009
