@@ -1,4 +1,4 @@
-# Recognition-of-user-behavior
+# Recognition-of-User-Behavior
 Author: Yanpeng Mei
 
 Updated on: 07.03.2023
